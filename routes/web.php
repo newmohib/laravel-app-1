@@ -75,8 +75,6 @@ Route::get('/login',function(){
 	}
 	
 	
-	
-	
 });
 
 
